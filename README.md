@@ -1,6 +1,4 @@
-# y
-
-> Made with create-react-library
+# Sweetalert2-Mod
 
 [![NPM](https://img.shields.io/npm/v/sweetalert2-mod.svg)](https://www.npmjs.com/package/sweetalert2-mod) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
