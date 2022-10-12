@@ -1,0 +1,105 @@
+._isab4._23U2-._1XvWU {
+	backdrop-filter: blur(6px) !important;
+	-webkit-backdrop-filter: blur(6px) !important;
+}
+
+._isab4._23U2- > ._3J88D {
+	border-radius: 16px !important;
+	overflow: hidden !important;
+	width: 320px !important;
+}
+
+._MRr2n {
+	font-size: 22px !important;
+	color: #000000 !important;
+	font-family: "Roboto", sans-serif !important;
+	font-weight: bold !important;
+}
+
+._3HDJ3 {
+	font-size: 16px !important;
+	color: #52575c !important;
+	font-family: "Roboto", sans-serif !important;
+}
+
+._3J88D {
+	width: auto !important;
+	padding: 0px !important;
+	font-size: 0.8rem !important;
+}
+
+._138AH {
+	margin: 0px !important;
+}
+
+._1v8yh {
+	width: 100% !important;
+	display: flex !important;
+	overflow: hidden !important;
+	margin: 0px !important;
+}
+
+/* button style */
+._1v8yh > button {
+	border-top: solid 1px rgb(0 0 0 / 10%) !important;
+	width: 100% !important;
+	height: 48px !important;
+	background-color: white !important;
+	border-radius: 0px !important;
+	font-family: "Roboto", sans-serif !important;
+	font-size: 15px !important;
+}
+
+._3HDJ3 {
+	padding: 0em 1.6em 1.25em 1.6em !important;
+	margin: 1em 0em 0em !important;
+}
+
+/* button text color type confirm */
+._138AH._5qI4l {
+	color: #2196f3 !important;
+}
+
+/* button text color type cancel */
+._138AH._eEGSZ {
+	color: #e53935 !important;
+	font-weight: 500 !important;
+}
+
+/* button text color type deny */
+._138AH._2-Iln {
+	color: #000 !important;
+	font-weight: 500 !important;
+}
+
+._138AH._5qI4l:hover {
+	background-color: #fff !important;
+}
+
+/* button text color when dialog type is error */
+/* confirm button text color */
+._2V2Or ._1v8yh ._5qI4l {
+	color: #e53935 !important;
+}
+/* deny button text color */
+._2V2Or ._1v8yh ._2-Iln {
+	color: #000 !important;
+}
+/* cancel button text color */
+._2V2Or ._1v8yh ._eEGSZ {
+	color: #000 !important;
+}
+
+/* button text color when dialog type is warning */
+/* confirm button text color */
+._6YQAL ._1v8yh ._5qI4l {
+	color: #ff5722 !important;
+}
+/* deny button text color */
+._1xooK ._1v8yh ._2-Iln {
+	color: #000;
+}
+/* confirm button text cancel */
+._6YQAL ._1v8yh ._eEGSZ {
+	color: #000 !important;
+}
