@@ -4,7 +4,7 @@
   "description": "Sweetalert2 with custom styles",
   "author": "defuj",
   "license": "MIT",
-  "repository": "defuj/sweetalert2-mod",
+  "repository": "https://github.com/defuj/sweetalert2-mod",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
