@@ -1,10 +1,10 @@
 {
-  "name": "sweetalert2-mod",
+  "name": "@defuj/sweetalert2-mod",
   "version": "1.0.1",
   "description": "Sweetalert2 with custom styles",
   "author": "defuj",
   "license": "MIT",
-  "repository": "defuj/sweetalert2-mod",
+  "repository": "https://github.com/defuj/sweetalert2-mod",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -14,7 +14,9 @@
   "keywords": [
     "notifications", "react" ,"angular", "alert","vue", "modal", "sweetalert", "sweetalert2", "dialog", "prompt","popup","accessible","wai-aria","toast","confirm","confirmation-dialog","hacktoberfest","hacktoberfest2022"
   ],
-  "registry": "https://npm.pkg.github.com/:_authToken=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",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
