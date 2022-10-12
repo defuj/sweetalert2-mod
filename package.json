@@ -11,6 +11,7 @@
   "engines": {
     "node": ">=10"
   },
+  "registry": "https://npm.pkg.github.com/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",
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
